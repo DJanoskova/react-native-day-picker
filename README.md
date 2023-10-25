@@ -2,8 +2,6 @@
 
 A Wheel Date Picker that displays the names for days. Style and enhance it however you want!
 
-<img src="https://github.com/DJanoskova/react-native-day-picker/blob/main/public/demo.PNG?raw=true" alt="Demo image" width="300" />
-
 ### Dependencies
 
 - react
@@ -32,4 +30,6 @@ To check Datepicker's implementation, open the [index.tsx](./index.tsx) file.
 
 ### Demo
 
-<video src="https://github.com/DJanoskova/react-native-day-picker/raw/main/public/demo.mov" width=180 />
+<img src="https://github.com/DJanoskova/react-native-day-picker/blob/main/public/demo.PNG?raw=true" alt="Demo image" width="240" />
+
+Check [a video](https://github.com/DJanoskova/react-native-day-picker/raw/main/public/demo.mov) of the demo.

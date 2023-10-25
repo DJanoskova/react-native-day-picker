@@ -1,0 +1,25 @@
+{
+  "name": "react-native-day-picker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJanoskova/react-native-day-picker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJanoskova/react-native-day-picker/issues"
+  },
+  "homepage": "https://github.com/DJanoskova/react-native-day-picker#readme",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "react": "^18.2.0",
+    "react-native": "^0.72.6",
+    "react-native-wheel-scrollview-picker": "^2.0.4"
+  }
+}

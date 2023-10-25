@@ -30,6 +30,4 @@ To check Datepicker's implementation, open the [index.tsx](./index.tsx) file.
 
 ### Demo
 
-<img src="https://github.com/DJanoskova/react-native-day-picker/blob/main/public/demo.PNG?raw=true" alt="Demo image" width="240" />
-
-Check [a video](https://github.com/DJanoskova/react-native-day-picker/raw/main/public/demo.mov) of the demo.
+<img src="https://github.com/DJanoskova/react-native-day-picker/blob/main/public/demo.gif?raw=true" alt="Demo image" width="340" />

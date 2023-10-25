@@ -17,7 +17,7 @@ const DateForm = () => {
 
   return (
     <DayPicker
-      value={new Date(task.date)}
+      value={date}
       onChange={setDate}
     />
   )
